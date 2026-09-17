@@ -49,7 +49,7 @@ MIT License — см. [LICENSE](LICENSE)
 
 ## Команда
 
-- Product Designer & Team Lead
+- Product Designer & Team Lead - a1qjv
 - Backend Developer
 - Frontend Developer
 - DevOps & Security Engineer
