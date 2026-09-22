@@ -14,6 +14,8 @@
 
 ### 1.1 Токены
 
+<img width="401" height="860" alt="Group 64" src="https://github.com/user-attachments/assets/5a8cf779-601c-45fa-9425-4017f934920a" />
+
 | Токен | TTL | Хранение | Назначение |
 |---|---|---|---|
 | Access token | 15 мин | В памяти приложения (BLoC state), не персистится | Авторизация запросов к API |
