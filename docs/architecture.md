@@ -14,7 +14,7 @@
 
 ### 1.1 Токены
 
-<img width="401" height="860" alt="Group 64" src="https://github.com/user-attachments/assets/5a8cf779-601c-45fa-9425-4017f934920a" />
+<img width="1920" height="1080" alt="D" src="https://github.com/user-attachments/assets/fe04fc1a-3785-44a6-bbf4-f59649d76861" />
 
 | Токен | TTL | Хранение | Назначение |
 |---|---|---|---|
