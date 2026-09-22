@@ -88,7 +88,7 @@ MSLU App закрывает именно эти пробелы:
 
 ## Документация
 
-- Техническая архитектура (авторизация, кеширование, инфраструктура) — [docs/architecture.md](docs/architecture.md)
+- Техническая архитектура (авторизация, кеширование, инфраструктура) — [docs/architecture.md](docs/architecture)
 - [API Reference](docs/api)
 
 ## Команда
