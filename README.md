@@ -3,10 +3,8 @@
 
 <img width="1920" height="1080" alt="D" src="https://github.com/user-attachments/assets/e76adb85-e3ab-4b86-a610-b1ea924c5e11" />
 
-
-**MSLU App** — быстрый мобильный доступ к расписанию, оценкам и домашним заданиям студента МГЛУ, без повторных логинов и с уведомлениями в реальном времени.
 ## Введение
-MSLU App — удобный мобильный доступ к расписанию, оценкам и ДЗ студента МГЛУ: офлайн-доступ, автоматический вход и уведомления в реальном времени.
+**MSLU App** — удобный мобильный доступ к расписанию, оценкам и ДЗ студента МГЛУ: офлайн-доступ, автоматический вход и уведомления в реальном времени.
 ### Проблема
 
 У студентов МГЛУ уже есть веб-версия личного кабинета, но она не решает задачу полноценно:
@@ -94,10 +92,10 @@ MSLU App закрывает именно эти пробелы:
 
 ## Команда
 
-- Product Designer & Team Lead — a1qjv
-- Backend Developer
-- Frontend Developer
-- DevOps & Security Engineer
+- Product Designer & Team Lead — Qoq0kujoove1
+- Backend Developer — evgeni27flov-oss
+- Frontend Developer — yareeeh
+- DevOps & Security Engineer — sd1o71
 
 ## Лицензия
 
