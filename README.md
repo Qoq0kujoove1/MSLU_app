@@ -1,8 +1,6 @@
 # MSLU App
 Приложение для доступа студентов Московского государственного лингвистического университета.
 
-<img width="1920" height="1080" alt="D" src="https://github.com/user-attachments/assets/e76adb85-e3ab-4b86-a610-b1ea924c5e11" />
-
 
 ## Основные понятия и термины
 
