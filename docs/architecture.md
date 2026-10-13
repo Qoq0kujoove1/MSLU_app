@@ -10,8 +10,7 @@
 
 ---
 
-<img width="2780" height="1200" alt="architecture" src="https://github.com/user-attachments/assets/c42f8cb4-d677-4310-aeab-54913f373cb2" />
-
+<img width="2780" height="1200" alt="architecture" src="https://github.com/user-attachments/assets/e4df64cc-fc64-4d8d-a757-ca10339e039a" />
 
 ## 1. Управление авторизацией и жизненный цикл сессии
 ### 1.1. Запуск или обращение при завершении сессии
