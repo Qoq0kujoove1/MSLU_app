@@ -10,17 +10,7 @@
 
 ---
 
-orders and schedule 
-
-monitoring отдельно 
-
-определить что мы храним в своей БД
-
-фоновые синхронизации
-
-запросы не идут 
-
-<img width="6100" height="7161" alt="Api Layer Flow-2026-10-06-120721" src="https://github.com/user-attachments/assets/3f9e2ac5-98ba-46db-9c13-653340ee31e7" />
+<img width="2780" height="1200" alt="architecture" src="https://github.com/user-attachments/assets/c42f8cb4-d677-4310-aeab-54913f373cb2" />
 
 
 ## 1. Управление авторизацией и жизненный цикл сессии
